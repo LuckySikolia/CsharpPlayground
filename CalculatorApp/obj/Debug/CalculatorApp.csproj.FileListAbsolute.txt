@@ -1,0 +1,7 @@
+D:\Games_and_game_development\C#_projects\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\Games_and_game_development\C#_projects\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\Games_and_game_development\C#_projects\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\Games_and_game_development\C#_projects\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\Games_and_game_development\C#_projects\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\C#_projects\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\Games_and_game_development\C#_projects\CalculatorApp\obj\Debug\CalculatorApp.pdb
