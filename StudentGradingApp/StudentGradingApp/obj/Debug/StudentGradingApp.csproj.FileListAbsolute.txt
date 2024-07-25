@@ -1,0 +1,7 @@
+D:\Games_and_game_development\C#_projects\StudentGradingApp\StudentGradingApp\bin\Debug\StudentGradingApp.exe.config
+D:\Games_and_game_development\C#_projects\StudentGradingApp\StudentGradingApp\bin\Debug\StudentGradingApp.exe
+D:\Games_and_game_development\C#_projects\StudentGradingApp\StudentGradingApp\bin\Debug\StudentGradingApp.pdb
+D:\Games_and_game_development\C#_projects\StudentGradingApp\StudentGradingApp\obj\Debug\StudentGradingApp.csproj.AssemblyReference.cache
+D:\Games_and_game_development\C#_projects\StudentGradingApp\StudentGradingApp\obj\Debug\StudentGradingApp.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\C#_projects\StudentGradingApp\StudentGradingApp\obj\Debug\StudentGradingApp.exe
+D:\Games_and_game_development\C#_projects\StudentGradingApp\StudentGradingApp\obj\Debug\StudentGradingApp.pdb

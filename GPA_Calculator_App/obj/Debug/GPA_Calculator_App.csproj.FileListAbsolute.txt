@@ -1,0 +1,7 @@
+D:\Games_and_game_development\C#_projects\GPA_Calculator_App\bin\Debug\GPA_Calculator_App.exe.config
+D:\Games_and_game_development\C#_projects\GPA_Calculator_App\bin\Debug\GPA_Calculator_App.exe
+D:\Games_and_game_development\C#_projects\GPA_Calculator_App\bin\Debug\GPA_Calculator_App.pdb
+D:\Games_and_game_development\C#_projects\GPA_Calculator_App\obj\Debug\GPA_Calculator_App.csproj.AssemblyReference.cache
+D:\Games_and_game_development\C#_projects\GPA_Calculator_App\obj\Debug\GPA_Calculator_App.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\C#_projects\GPA_Calculator_App\obj\Debug\GPA_Calculator_App.exe
+D:\Games_and_game_development\C#_projects\GPA_Calculator_App\obj\Debug\GPA_Calculator_App.pdb
