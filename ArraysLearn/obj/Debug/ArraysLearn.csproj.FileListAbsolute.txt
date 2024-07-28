@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\ArraysLearn\bin\Debug\ArraysLearn.exe.config
+D:\Games_and_game_development\CsharpPlayground\ArraysLearn\bin\Debug\ArraysLearn.exe
+D:\Games_and_game_development\CsharpPlayground\ArraysLearn\bin\Debug\ArraysLearn.pdb
+D:\Games_and_game_development\CsharpPlayground\ArraysLearn\obj\Debug\ArraysLearn.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\ArraysLearn\obj\Debug\ArraysLearn.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\ArraysLearn\obj\Debug\ArraysLearn.exe
+D:\Games_and_game_development\CsharpPlayground\ArraysLearn\obj\Debug\ArraysLearn.pdb

@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\MethodsLearn\obj\Debug\MethodsLearn.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\MethodsLearn\obj\Debug\MethodsLearn.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\MethodsLearn\bin\Debug\MethodsLearn.exe.config
+D:\Games_and_game_development\CsharpPlayground\MethodsLearn\bin\Debug\MethodsLearn.exe
+D:\Games_and_game_development\CsharpPlayground\MethodsLearn\bin\Debug\MethodsLearn.pdb
+D:\Games_and_game_development\CsharpPlayground\MethodsLearn\obj\Debug\MethodsLearn.exe
+D:\Games_and_game_development\CsharpPlayground\MethodsLearn\obj\Debug\MethodsLearn.pdb
