@@ -1,0 +1,7 @@
+C:\Users\Lucky\source\repos\IfStatements2\bin\Debug\IfStatements2.exe.config
+C:\Users\Lucky\source\repos\IfStatements2\bin\Debug\IfStatements2.exe
+C:\Users\Lucky\source\repos\IfStatements2\bin\Debug\IfStatements2.pdb
+C:\Users\Lucky\source\repos\IfStatements2\obj\Debug\IfStatements2.csproj.AssemblyReference.cache
+C:\Users\Lucky\source\repos\IfStatements2\obj\Debug\IfStatements2.csproj.CoreCompileInputs.cache
+C:\Users\Lucky\source\repos\IfStatements2\obj\Debug\IfStatements2.exe
+C:\Users\Lucky\source\repos\IfStatements2\obj\Debug\IfStatements2.pdb
