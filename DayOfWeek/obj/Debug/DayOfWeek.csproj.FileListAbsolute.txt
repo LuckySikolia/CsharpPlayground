@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\DayOfWeek\obj\Debug\DayOfWeek.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+D:\Games_and_game_development\CsharpPlayground\DayOfWeek\bin\Debug\DayOfWeek.exe
+D:\Games_and_game_development\CsharpPlayground\DayOfWeek\bin\Debug\DayOfWeek.pdb
+D:\Games_and_game_development\CsharpPlayground\DayOfWeek\obj\Debug\DayOfWeek.exe
+D:\Games_and_game_development\CsharpPlayground\DayOfWeek\obj\Debug\DayOfWeek.pdb

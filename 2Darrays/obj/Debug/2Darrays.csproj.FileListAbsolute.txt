@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\2Darrays\bin\Debug\2Darrays.exe.config
+D:\Games_and_game_development\CsharpPlayground\2Darrays\bin\Debug\2Darrays.exe
+D:\Games_and_game_development\CsharpPlayground\2Darrays\bin\Debug\2Darrays.pdb
+D:\Games_and_game_development\CsharpPlayground\2Darrays\obj\Debug\2Darrays.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\2Darrays\obj\Debug\2Darrays.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\2Darrays\obj\Debug\2Darrays.exe
+D:\Games_and_game_development\CsharpPlayground\2Darrays\obj\Debug\2Darrays.pdb

@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Games_and_game_development\CsharpPlayground\Inheritance\bin\Debug\Inheritance.exe
+D:\Games_and_game_development\CsharpPlayground\Inheritance\bin\Debug\Inheritance.pdb
+D:\Games_and_game_development\CsharpPlayground\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Inheritance\obj\Debug\Inheritance.exe
+D:\Games_and_game_development\CsharpPlayground\Inheritance\obj\Debug\Inheritance.pdb

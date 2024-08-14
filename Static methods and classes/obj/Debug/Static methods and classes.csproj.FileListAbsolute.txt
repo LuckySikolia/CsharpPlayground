@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Static methods and classes\bin\Debug\Static methods and classes.exe.config
+D:\Games_and_game_development\CsharpPlayground\Static methods and classes\bin\Debug\Static methods and classes.exe
+D:\Games_and_game_development\CsharpPlayground\Static methods and classes\bin\Debug\Static methods and classes.pdb
+D:\Games_and_game_development\CsharpPlayground\Static methods and classes\obj\Debug\Static methods and classes.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Static methods and classes\obj\Debug\Static methods and classes.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Static methods and classes\obj\Debug\Static methods and classes.exe
+D:\Games_and_game_development\CsharpPlayground\Static methods and classes\obj\Debug\Static methods and classes.pdb

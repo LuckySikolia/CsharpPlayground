@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Static Class Attributes\bin\Debug\Static Class Attributes.exe.config
+D:\Games_and_game_development\CsharpPlayground\Static Class Attributes\bin\Debug\Static Class Attributes.exe
+D:\Games_and_game_development\CsharpPlayground\Static Class Attributes\bin\Debug\Static Class Attributes.pdb
+D:\Games_and_game_development\CsharpPlayground\Static Class Attributes\obj\Debug\Static Class Attributes.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Static Class Attributes\obj\Debug\Static Class Attributes.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Static Class Attributes\obj\Debug\Static Class Attributes.exe
+D:\Games_and_game_development\CsharpPlayground\Static Class Attributes\obj\Debug\Static Class Attributes.pdb

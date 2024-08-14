@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Classes and objects\bin\Debug\Classes and objects.exe.config
+D:\Games_and_game_development\CsharpPlayground\Classes and objects\bin\Debug\Classes and objects.exe
+D:\Games_and_game_development\CsharpPlayground\Classes and objects\bin\Debug\Classes and objects.pdb
+D:\Games_and_game_development\CsharpPlayground\Classes and objects\obj\Debug\Classes and objects.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Classes and objects\obj\Debug\Classes and objects.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Classes and objects\obj\Debug\Classes and objects.exe
+D:\Games_and_game_development\CsharpPlayground\Classes and objects\obj\Debug\Classes and objects.pdb

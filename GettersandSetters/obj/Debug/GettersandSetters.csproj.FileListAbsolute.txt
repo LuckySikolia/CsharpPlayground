@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\GettersandSetters\bin\Debug\GettersandSetters.exe.config
+D:\Games_and_game_development\CsharpPlayground\GettersandSetters\bin\Debug\GettersandSetters.exe
+D:\Games_and_game_development\CsharpPlayground\GettersandSetters\bin\Debug\GettersandSetters.pdb
+D:\Games_and_game_development\CsharpPlayground\GettersandSetters\obj\Debug\GettersandSetters.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\GettersandSetters\obj\Debug\GettersandSetters.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\GettersandSetters\obj\Debug\GettersandSetters.exe
+D:\Games_and_game_development\CsharpPlayground\GettersandSetters\obj\Debug\GettersandSetters.pdb

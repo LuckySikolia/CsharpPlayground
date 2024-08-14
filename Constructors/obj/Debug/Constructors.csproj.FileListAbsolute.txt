@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Constructors\bin\Debug\Constructors.exe.config
+D:\Games_and_game_development\CsharpPlayground\Constructors\bin\Debug\Constructors.exe
+D:\Games_and_game_development\CsharpPlayground\Constructors\bin\Debug\Constructors.pdb
+D:\Games_and_game_development\CsharpPlayground\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Constructors\obj\Debug\Constructors.exe
+D:\Games_and_game_development\CsharpPlayground\Constructors\obj\Debug\Constructors.pdb

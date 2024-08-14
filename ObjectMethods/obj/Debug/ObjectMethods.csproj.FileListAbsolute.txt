@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\ObjectMethods\bin\Debug\ObjectMethods.exe.config
+D:\Games_and_game_development\CsharpPlayground\ObjectMethods\bin\Debug\ObjectMethods.exe
+D:\Games_and_game_development\CsharpPlayground\ObjectMethods\bin\Debug\ObjectMethods.pdb
+D:\Games_and_game_development\CsharpPlayground\ObjectMethods\obj\Debug\ObjectMethods.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\ObjectMethods\obj\Debug\ObjectMethods.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\ObjectMethods\obj\Debug\ObjectMethods.exe
+D:\Games_and_game_development\CsharpPlayground\ObjectMethods\obj\Debug\ObjectMethods.pdb

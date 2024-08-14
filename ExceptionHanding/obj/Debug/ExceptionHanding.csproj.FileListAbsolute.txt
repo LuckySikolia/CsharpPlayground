@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\ExceptionHanding\bin\Debug\ExceptionHanding.exe.config
+D:\Games_and_game_development\CsharpPlayground\ExceptionHanding\bin\Debug\ExceptionHanding.exe
+D:\Games_and_game_development\CsharpPlayground\ExceptionHanding\bin\Debug\ExceptionHanding.pdb
+D:\Games_and_game_development\CsharpPlayground\ExceptionHanding\obj\Debug\ExceptionHanding.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\ExceptionHanding\obj\Debug\ExceptionHanding.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\ExceptionHanding\obj\Debug\ExceptionHanding.exe
+D:\Games_and_game_development\CsharpPlayground\ExceptionHanding\obj\Debug\ExceptionHanding.pdb
