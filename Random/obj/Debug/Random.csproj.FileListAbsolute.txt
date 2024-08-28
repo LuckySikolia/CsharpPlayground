@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Random\obj\Debug\Random.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Random\obj\Debug\Random.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Random\bin\Debug\Random.exe.config
+D:\Games_and_game_development\CsharpPlayground\Random\bin\Debug\Random.exe
+D:\Games_and_game_development\CsharpPlayground\Random\bin\Debug\Random.pdb
+D:\Games_and_game_development\CsharpPlayground\Random\obj\Debug\Random.exe
+D:\Games_and_game_development\CsharpPlayground\Random\obj\Debug\Random.pdb

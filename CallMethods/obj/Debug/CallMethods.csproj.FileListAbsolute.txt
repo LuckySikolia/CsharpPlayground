@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\CallMethods\bin\Debug\CallMethods.exe.config
+D:\Games_and_game_development\CsharpPlayground\CallMethods\bin\Debug\CallMethods.exe
+D:\Games_and_game_development\CsharpPlayground\CallMethods\bin\Debug\CallMethods.pdb
+D:\Games_and_game_development\CsharpPlayground\CallMethods\obj\Debug\CallMethods.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\CallMethods\obj\Debug\CallMethods.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\CallMethods\obj\Debug\CallMethods.exe
+D:\Games_and_game_development\CsharpPlayground\CallMethods\obj\Debug\CallMethods.pdb

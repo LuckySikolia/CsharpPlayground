@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\MathClassMethodChallenge\bin\Debug\MathClassMethodChallenge.exe.config
+D:\Games_and_game_development\CsharpPlayground\MathClassMethodChallenge\bin\Debug\MathClassMethodChallenge.exe
+D:\Games_and_game_development\CsharpPlayground\MathClassMethodChallenge\bin\Debug\MathClassMethodChallenge.pdb
+D:\Games_and_game_development\CsharpPlayground\MathClassMethodChallenge\obj\Debug\MathClassMethodChallenge.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\MathClassMethodChallenge\obj\Debug\MathClassMethodChallenge.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\MathClassMethodChallenge\obj\Debug\MathClassMethodChallenge.exe
+D:\Games_and_game_development\CsharpPlayground\MathClassMethodChallenge\obj\Debug\MathClassMethodChallenge.pdb
