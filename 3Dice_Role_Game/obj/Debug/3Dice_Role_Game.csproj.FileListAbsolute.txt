@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\3Dice_Role_Game\bin\Debug\3Dice_Role_Game.exe.config
+D:\Games_and_game_development\CsharpPlayground\3Dice_Role_Game\bin\Debug\3Dice_Role_Game.exe
+D:\Games_and_game_development\CsharpPlayground\3Dice_Role_Game\bin\Debug\3Dice_Role_Game.pdb
+D:\Games_and_game_development\CsharpPlayground\3Dice_Role_Game\obj\Debug\3Dice_Role_Game.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\3Dice_Role_Game\obj\Debug\3Dice_Role_Game.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\3Dice_Role_Game\obj\Debug\3Dice_Role_Game.exe
+D:\Games_and_game_development\CsharpPlayground\3Dice_Role_Game\obj\Debug\3Dice_Role_Game.pdb
