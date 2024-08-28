@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\ArrayOrderIdProject\bin\Debug\ArrayOrderIdProject.exe.config
+D:\Games_and_game_development\CsharpPlayground\ArrayOrderIdProject\bin\Debug\ArrayOrderIdProject.exe
+D:\Games_and_game_development\CsharpPlayground\ArrayOrderIdProject\bin\Debug\ArrayOrderIdProject.pdb
+D:\Games_and_game_development\CsharpPlayground\ArrayOrderIdProject\obj\Debug\ArrayOrderIdProject.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\ArrayOrderIdProject\obj\Debug\ArrayOrderIdProject.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\ArrayOrderIdProject\obj\Debug\ArrayOrderIdProject.exe
+D:\Games_and_game_development\CsharpPlayground\ArrayOrderIdProject\obj\Debug\ArrayOrderIdProject.pdb
