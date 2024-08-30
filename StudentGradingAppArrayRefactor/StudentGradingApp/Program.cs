@@ -22,19 +22,28 @@ namespace StudentGradingApp
                 4. Your application needs to perform basic math operations to calculate the final grades for each student.
                 5. Your application needs to output/display each student’s name and final score.*/
 
+            /* This module challenges you to add new capabilities to your Student Grading application.
+            In short, you need to use the teacher's updated grading report specification to:
+                update the iteration and selection code to calculate separate final scores for exams, extra credit assignments, and the overall grade.
+                update the code that writes the grading report to the console*/ 
+
 
             //initializations
             int currentAssignments = 5;   //Initialize the variables for the graded assinments         
             int sum = 0;   //initialize sum to 0
             string currentStudentGrade = ""; // initialize the grade letter
 
+            int updatedScoreReport = 0; //instanctiate variables that are requiredfor the updates score report
+            int extraCredit = 0;
+            double extraCreditPoints = 0;
+
             //Arrays for student names and their individual assignment scores
-            string[] studentNames = { "Sophia", "Nicholas", "Zahira", "Jeong" };
+            string[] studentNames = { "Sophia", "Nico", "Zahira", "Jeong" };
 
             //creating nested arrays that store each students assingment scores
             int[][] studentScores =
             {
-                new int[]{ 90, 86, 87, 98, 100 },
+                new int[]{ 90, 86, 87, 98, 100, 92 },
                 new int[]{ 92, 89, 81, 96, 90 },
                 new int[]{ 90, 85, 87, 98, 68 },
                 new int[]{ 90, 95, 87, 88, 96 }
@@ -43,22 +52,46 @@ namespace StudentGradingApp
 
             Console.WriteLine();
             //The expected output
-            Console.WriteLine($"Student\t\t Grade");
+            Console.WriteLine($"Student\t\t Exam Score \t Overall Grade \t\t Extra Credit");
 
             Console.WriteLine();
 
             for (int i = 0; i < studentNames.Length; i++)
             {
                 sum = 0; //reset sum for each student
+                extraCredit = 0; //reset extra credit for each student
+                extraCreditPoints = 0; //reset extra credirt points for all students
 
-                //calculate total grades for each student
-                foreach (int score in studentScores[i])
+
+                /*Detects extra credit assignments based on the number of elements in the student's scores array.
+                    Applies a 10 % weighting factor to extra credit assignments before adding extra credit scores to the sum of exam scores.*/
+
+                //check for extra credits
+                if (studentScores[i].Length > currentAssignments)
                 {
-                    sum += score;
+                    extraCredit = studentScores[i][studentScores[i].Length - 1];
+                    Console.WriteLine("This student has extra credits");
+                    extraCreditPoints = extraCredit * 0.1; //apply 10% weighting
                 }
+
+                //calculate the total grade of the students minus the extra credit points before calculating the average grade
+                for (int j = 0; j < studentScores[i].Length - (extraCreditPoints > 0 ? 1 : 0 ); j++)
+                {
+                    sum += studentScores[i][j];
+                }
+
+                //add the extra credit points to the total sum
+                sum += (int)extraCreditPoints;
+
+                //calculate total grades for each student including 
+                /* foreach (int score in studentScores[i])
+                 {
+                     sum += score;
+                 }*/
 
                 //calculate the average grade
                 decimal averageGrade = sum / (decimal)currentAssignments;
+                //decimal averageGrade = sum / (decimal)studentScores[i].Length;
 
                 //code to detemine the student's grade letter
                 if (averageGrade >= 97)
@@ -126,28 +159,21 @@ namespace StudentGradingApp
                     currentStudentGrade = "F";
 
                 }
-                Console.WriteLine($"{studentNames[i]}\t\t\t\t {averageGrade:F1} \t\t {currentStudentGrade} ");
+
+                
+                Console.WriteLine($"{studentNames[i]}\t\t {updatedScoreReport} \t\t {averageGrade:F1} \t {currentStudentGrade} \t\t {extraCredit}({extraCreditPoints:F2} pts) ");
             }
-           
-          
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            //The expected output
-            Console.WriteLine($"Student\t\t Grade");
-
-            Console.WriteLine();
-
-            //Console.WriteLine($"{studentNames[i]}\t\t {averageGrade:F1} \t\t {currentStudentGrade} ");
-            //Console.WriteLine($"{studentNames[i]}\t\t{averageGrade:F1}\t {currentStudentGrade}");
-
-            Console.WriteLine("Press the Enter key to continue");
 
 
-            /* Console.WriteLine($"Sophia\t\t{sophiaAverage}\t'A'");
-             Console.WriteLine($"Nicholas\t{nicholasAverage}\t'B'");
-             Console.WriteLine($"Zahirah\t\t{zahirahAverage}\t'B'");
-             Console.WriteLine($"Jeong\t\t{jeongAverage}\t'A'");*/
+
+            /* This module challenges you to add new capabilities to your Student Grading application.
+             In short, you need to use the teacher's updated grading report specification to:
+                 update the iteration and selection code to calculate separate final scores for exams, extra credit assignments, and the overall grade.
+                 update the code that writes the grading report to the console*/
+
+            
+            
+
 
             Console.ReadLine();
 
