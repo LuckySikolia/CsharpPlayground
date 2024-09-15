@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\TestProject\bin\Debug\TestProject.exe.config
+D:\Games_and_game_development\CsharpPlayground\TestProject\bin\Debug\TestProject.exe
+D:\Games_and_game_development\CsharpPlayground\TestProject\bin\Debug\TestProject.pdb
+D:\Games_and_game_development\CsharpPlayground\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\TestProject\obj\Debug\TestProject.exe
+D:\Games_and_game_development\CsharpPlayground\TestProject\obj\Debug\TestProject.pdb

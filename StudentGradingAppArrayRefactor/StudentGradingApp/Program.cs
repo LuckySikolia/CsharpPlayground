@@ -33,7 +33,7 @@ namespace StudentGradingApp
             int sum = 0;   //initialize sum to 0
             string currentStudentGrade = ""; // initialize the grade letter
 
-            int updatedScoreReport = 0; //instanctiate variables that are requiredfor the updates score report
+            double updatedScoreReport = 0; //instanctiate variables that are requiredfor the updates score report
             int extraCredit = 0;
             double extraCreditPoints = 0;
 
@@ -43,7 +43,7 @@ namespace StudentGradingApp
             //creating nested arrays that store each students assingment scores
             int[][] studentScores =
             {
-                new int[]{ 90, 86, 87, 98, 100, 92 },
+                new int[]{ 90, 86, 87, 98, 100, 92, 82 },
                 new int[]{ 92, 89, 81, 96, 90 },
                 new int[]{ 90, 85, 87, 98, 68 },
                 new int[]{ 90, 95, 87, 88, 96 }
@@ -62,23 +62,38 @@ namespace StudentGradingApp
                 extraCredit = 0; //reset extra credit for each student
                 extraCreditPoints = 0; //reset extra credirt points for all students
 
+                //calculate the sum of the first 5 scores (exam scores)
+                for (int j = 0; j < currentAssignments; j++)
+                {
+                    sum += studentScores[i][j];
+                }
+
 
                 /*Detects extra credit assignments based on the number of elements in the student's scores array.
                     Applies a 10 % weighting factor to extra credit assignments before adding extra credit scores to the sum of exam scores.*/
 
-                //check for extra credits
+                //check for extra credits and calculate the sum
                 if (studentScores[i].Length > currentAssignments)
                 {
-                    extraCredit = studentScores[i][studentScores[i].Length - 1];
-                    Console.WriteLine("This student has extra credits");
-                    extraCreditPoints = extraCredit * 0.1; //apply 10% weighting
+                    for (int j = currentAssignments; j < studentScores[i].Length; j++)
+                    {
+                        Console.WriteLine("This student has extra credits");
+                        extraCreditPoints = extraCredit * 0.1; //apply 10% weighting
+                    }                
                 }
 
+                
                 //calculate the total grade of the students minus the extra credit points before calculating the average grade
-                for (int j = 0; j < studentScores[i].Length - (extraCreditPoints > 0 ? 1 : 0 ); j++)
+               /* for (int j = 0; j < studentScores[i].Length - (extraCreditPoints > 0 ? 1 : 0 ); j++)
                 {
                     sum += studentScores[i][j];
                 }
+*/
+                //calculate the updated total score
+                updatedScoreReport = ((sum + extraCreditPoints) / currentAssignments);
+
+                //calculate the extra credit points per exam
+                double extraCreditPerExam = extraCreditPoints / currentAssignments;
 
                 //add the extra credit points to the total sum
                 sum += (int)extraCreditPoints;
@@ -88,6 +103,11 @@ namespace StudentGradingApp
                  {
                      sum += score;
                  }*/
+
+
+                ////calculate the updated total score
+                //updatedScoreReport = ((sum + extraCreditPoints) / currentAssignments);
+
 
                 //calculate the average grade
                 decimal averageGrade = sum / (decimal)currentAssignments;
@@ -161,7 +181,7 @@ namespace StudentGradingApp
                 }
 
                 
-                Console.WriteLine($"{studentNames[i]}\t\t {updatedScoreReport} \t\t {averageGrade:F1} \t {currentStudentGrade} \t\t {extraCredit}({extraCreditPoints:F2} pts) ");
+                Console.WriteLine($"{studentNames[i]}\t\t {updatedScoreReport} \t\t {averageGrade:F1} \t {currentStudentGrade} \t\t {extraCredit}({extraCreditPoints:F2} pts), {extraCreditPerExam:F2} pts/exam) ");
             }
 
 
