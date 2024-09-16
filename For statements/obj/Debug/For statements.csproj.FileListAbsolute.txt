@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\For statements\bin\Debug\For statements.exe.config
+D:\Games_and_game_development\CsharpPlayground\For statements\bin\Debug\For statements.exe
+D:\Games_and_game_development\CsharpPlayground\For statements\bin\Debug\For statements.pdb
+D:\Games_and_game_development\CsharpPlayground\For statements\obj\Debug\For statements.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\For statements\obj\Debug\For statements.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\For statements\obj\Debug\For statements.exe
+D:\Games_and_game_development\CsharpPlayground\For statements\obj\Debug\For statements.pdb
