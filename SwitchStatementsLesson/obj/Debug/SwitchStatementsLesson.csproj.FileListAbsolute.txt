@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\SwitchStatementsLesson\bin\Debug\SwitchStatementsLesson.exe.config
+D:\Games_and_game_development\CsharpPlayground\SwitchStatementsLesson\bin\Debug\SwitchStatementsLesson.exe
+D:\Games_and_game_development\CsharpPlayground\SwitchStatementsLesson\bin\Debug\SwitchStatementsLesson.pdb
+D:\Games_and_game_development\CsharpPlayground\SwitchStatementsLesson\obj\Debug\SwitchStatementsLesson.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\SwitchStatementsLesson\obj\Debug\SwitchStatementsLesson.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\SwitchStatementsLesson\obj\Debug\SwitchStatementsLesson.exe
+D:\Games_and_game_development\CsharpPlayground\SwitchStatementsLesson\obj\Debug\SwitchStatementsLesson.pdb
