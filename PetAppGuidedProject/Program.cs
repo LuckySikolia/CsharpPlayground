@@ -159,7 +159,7 @@ namespace PetAppGuidedProject
             }
 
             // display the top-level menu options
-
+            int newIndex = -1;
             
             do
             {
@@ -205,7 +205,7 @@ namespace PetAppGuidedProject
                         //read user input and add it to the array
 
                         //find the next available index
-                        int newIndex = -1;
+                        newIndex = -1;
                         
                         for (int i = 0; i < maxPets; i++)
                         {
@@ -220,6 +220,7 @@ namespace PetAppGuidedProject
                         if(newIndex == -1)
                         {
                             Console.WriteLine("No space available for a new pet");
+                            break;
                         } else
                         {
                             Console.WriteLine("Enter ID: ");
@@ -242,15 +243,56 @@ namespace PetAppGuidedProject
                         break;
 
                     case "3":
-                        if (animalAge != null && animalPhysicalDescription != null);
-                        continue;
+                        for(int i = 0; i < maxPets; i++)
+                        {
+                            if (string.IsNullOrEmpty(ourAnimals[i, 2]))
+                            {
+                                Console.WriteLine($"Pet {ourAnimals[i, 0]} is missing age. Please enter age:");
+                                ourAnimals[i, 2] = Console.ReadLine();
+                            }
+                            if (string.IsNullOrEmpty(ourAnimals[i, 4]))
+                            {
+                                Console.WriteLine($"Pet {ourAnimals[i, 0]} is missing age. Please enter age:");
+                                ourAnimals[i, 4] = Console.ReadLine(); 
+                            }
+
+                        }
+                        Console.WriteLine("All missing age and physical descriptions have been updated.");
+                        break;
 
                     case "4":
-                        if (animalNickname != null && animalPersonalityDescription!= null);
-                        continue;
+                        for (int i = 0; i < maxPets; i++)
+                        {
+                            if (string.IsNullOrEmpty(ourAnimals[i, 3]))
+                            {
+                                Console.WriteLine($"Pet {ourAnimals[i, 0]} is missing age. Please enter age:");
+                                ourAnimals[i, 3] = Console.ReadLine();
+                            }
+                            if (string.IsNullOrEmpty(ourAnimals[i, 5]))
+                            {
+                                Console.WriteLine($"Pet {ourAnimals[i, 0]} is missing age. Please enter age:");
+                                ourAnimals[i, 5] = Console.ReadLine(); 
+                            }
+
+                        }
+                        Console.WriteLine("All missing age and physical descriptions have been updated.");
+                        break;
 
                     case "5":
-                        animalAge = Console.ReadLine();
+
+                        for (int i = 0; i < maxPets; i++)
+                        {
+                            if (ourAnimals[i, 0] != null)
+                            {
+                                if(!string.IsNullOrEmpty(ourAnimals[i, 2]))
+                                {
+                                    Console.WriteLine("Update the animal's age");
+                                    ourAnimals[i, 2] = Console.ReadLine();
+                                    
+                                }
+                                Console.WriteLine("Pets ages has been updated");
+                            }
+                        }
                         break;
 
                     case "6":
