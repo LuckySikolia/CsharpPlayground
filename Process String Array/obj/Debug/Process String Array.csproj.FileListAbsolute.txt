@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Process String Array\bin\Debug\Process String Array.exe.config
+D:\Games_and_game_development\CsharpPlayground\Process String Array\bin\Debug\Process String Array.exe
+D:\Games_and_game_development\CsharpPlayground\Process String Array\bin\Debug\Process String Array.pdb
+D:\Games_and_game_development\CsharpPlayground\Process String Array\obj\Debug\Process String Array.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Process String Array\obj\Debug\Process String Array.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Process String Array\obj\Debug\Process String Array.exe
+D:\Games_and_game_development\CsharpPlayground\Process String Array\obj\Debug\Process String Array.pdb

@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Validate string input\bin\Debug\Validate string input.exe.config
+D:\Games_and_game_development\CsharpPlayground\Validate string input\bin\Debug\Validate string input.exe
+D:\Games_and_game_development\CsharpPlayground\Validate string input\bin\Debug\Validate string input.pdb
+D:\Games_and_game_development\CsharpPlayground\Validate string input\obj\Debug\Validate string input.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Validate string input\obj\Debug\Validate string input.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Validate string input\obj\Debug\Validate string input.exe
+D:\Games_and_game_development\CsharpPlayground\Validate string input\obj\Debug\Validate string input.pdb
