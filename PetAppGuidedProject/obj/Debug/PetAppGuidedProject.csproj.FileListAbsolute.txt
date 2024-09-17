@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\PetAppGuidedProject\obj\Debug\PetAppGuidedProject.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\PetAppGuidedProject\obj\Debug\PetAppGuidedProject.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\PetAppGuidedProject\bin\Debug\PetAppGuidedProject.exe.config
+D:\Games_and_game_development\CsharpPlayground\PetAppGuidedProject\bin\Debug\PetAppGuidedProject.exe
+D:\Games_and_game_development\CsharpPlayground\PetAppGuidedProject\bin\Debug\PetAppGuidedProject.pdb
+D:\Games_and_game_development\CsharpPlayground\PetAppGuidedProject\obj\Debug\PetAppGuidedProject.exe
+D:\Games_and_game_development\CsharpPlayground\PetAppGuidedProject\obj\Debug\PetAppGuidedProject.pdb
