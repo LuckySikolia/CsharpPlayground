@@ -245,17 +245,21 @@ namespace PetAppGuidedProject
                     case "3":
                         for(int i = 0; i < maxPets; i++)
                         {
-                            if (string.IsNullOrEmpty(ourAnimals[i, 2]))
+                            //check if the pets exists(ID is not null)before processing
+                            if (ourAnimals[i,0] != null)
                             {
-                                Console.WriteLine($"Pet {ourAnimals[i, 0]} is missing age. Please enter age:");
-                                ourAnimals[i, 2] = Console.ReadLine();
+                                if (string.IsNullOrEmpty(ourAnimals[i, 2]))
+                                {
+                                    Console.WriteLine($"Pet {ourAnimals[i, 0]} is missing age. Please enter age:");
+                                    ourAnimals[i, 2] = Console.ReadLine();
+                                }
+                                if (string.IsNullOrEmpty(ourAnimals[i, 4]))
+                                {
+                                    Console.WriteLine($"Pet {ourAnimals[i, 0]} is missing physical description. Please enter physical description:");
+                                    ourAnimals[i, 4] = Console.ReadLine();
+                                }
                             }
-                            if (string.IsNullOrEmpty(ourAnimals[i, 4]))
-                            {
-                                Console.WriteLine($"Pet {ourAnimals[i, 0]} is missing age. Please enter age:");
-                                ourAnimals[i, 4] = Console.ReadLine(); 
-                            }
-
+                                                           
                         }
                         Console.WriteLine("All missing age and physical descriptions have been updated.");
                         break;
@@ -263,16 +267,20 @@ namespace PetAppGuidedProject
                     case "4":
                         for (int i = 0; i < maxPets; i++)
                         {
-                            if (string.IsNullOrEmpty(ourAnimals[i, 3]))
+                            //check if the pets exists(ID is not null)before processing
+                            if (ourAnimals[i, 0] != null)
                             {
-                                Console.WriteLine($"Pet {ourAnimals[i, 0]} is missing age. Please enter age:");
-                                ourAnimals[i, 3] = Console.ReadLine();
-                            }
-                            if (string.IsNullOrEmpty(ourAnimals[i, 5]))
-                            {
-                                Console.WriteLine($"Pet {ourAnimals[i, 0]} is missing age. Please enter age:");
-                                ourAnimals[i, 5] = Console.ReadLine(); 
-                            }
+                                if (string.IsNullOrEmpty(ourAnimals[i, 3]))
+                                {
+                                    Console.WriteLine($"Pet {ourAnimals[i, 0]} is missing age. Please enter age:");
+                                    ourAnimals[i, 3] = Console.ReadLine();
+                                }
+                                if (string.IsNullOrEmpty(ourAnimals[i, 5]))
+                                {
+                                    Console.WriteLine($"Pet {ourAnimals[i, 0]} is missing age. Please enter age:");
+                                    ourAnimals[i, 5] = Console.ReadLine();
+                                }
+                            }                                
 
                         }
                         Console.WriteLine("All missing age and physical descriptions have been updated.");
