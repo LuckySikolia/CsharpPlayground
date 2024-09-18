@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Discoversort() reversesort()\bin\Debug\Discoversort() reversesort().exe.config
+D:\Games_and_game_development\CsharpPlayground\Discoversort() reversesort()\bin\Debug\Discoversort() reversesort().exe
+D:\Games_and_game_development\CsharpPlayground\Discoversort() reversesort()\bin\Debug\Discoversort() reversesort().pdb
+D:\Games_and_game_development\CsharpPlayground\Discoversort() reversesort()\obj\Debug\Discoversort() reversesort().csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Discoversort() reversesort()\obj\Debug\Discoversort() reversesort().csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Discoversort() reversesort()\obj\Debug\Discoversort() reversesort().exe
+D:\Games_and_game_development\CsharpPlayground\Discoversort() reversesort()\obj\Debug\Discoversort() reversesort().pdb

@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Discover split() and join()\bin\Debug\Discover split() and join().exe.config
+D:\Games_and_game_development\CsharpPlayground\Discover split() and join()\bin\Debug\Discover split() and join().exe
+D:\Games_and_game_development\CsharpPlayground\Discover split() and join()\bin\Debug\Discover split() and join().pdb
+D:\Games_and_game_development\CsharpPlayground\Discover split() and join()\obj\Debug\Discover split() and join().csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Discover split() and join()\obj\Debug\Discover split() and join().csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Discover split() and join()\obj\Debug\Discover split() and join().exe
+D:\Games_and_game_development\CsharpPlayground\Discover split() and join()\obj\Debug\Discover split() and join().pdb
