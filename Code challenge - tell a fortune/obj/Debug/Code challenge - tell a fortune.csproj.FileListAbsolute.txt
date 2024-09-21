@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Code challenge - tell a fortune\bin\Debug\Code challenge - tell a fortune.exe.config
+D:\Games_and_game_development\CsharpPlayground\Code challenge - tell a fortune\bin\Debug\Code challenge - tell a fortune.exe
+D:\Games_and_game_development\CsharpPlayground\Code challenge - tell a fortune\bin\Debug\Code challenge - tell a fortune.pdb
+D:\Games_and_game_development\CsharpPlayground\Code challenge - tell a fortune\obj\Debug\Code challenge - tell a fortune.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Code challenge - tell a fortune\obj\Debug\Code challenge - tell a fortune.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Code challenge - tell a fortune\obj\Debug\Code challenge - tell a fortune.exe
+D:\Games_and_game_development\CsharpPlayground\Code challenge - tell a fortune\obj\Debug\Code challenge - tell a fortune.pdb

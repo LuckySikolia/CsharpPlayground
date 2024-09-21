@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\GuidedProject - Variable data in c#\bin\Debug\GuidedProject - Variable data in c#.exe.config
+D:\Games_and_game_development\CsharpPlayground\GuidedProject - Variable data in c#\bin\Debug\GuidedProject - Variable data in c#.exe
+D:\Games_and_game_development\CsharpPlayground\GuidedProject - Variable data in c#\bin\Debug\GuidedProject - Variable data in c#.pdb
+D:\Games_and_game_development\CsharpPlayground\GuidedProject - Variable data in c#\obj\Debug\GuidedProject - Variable data in c#.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\GuidedProject - Variable data in c#\obj\Debug\GuidedProject - Variable data in c#.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\GuidedProject - Variable data in c#\obj\Debug\GuidedProject - Variable data in c#.exe
+D:\Games_and_game_development\CsharpPlayground\GuidedProject - Variable data in c#\obj\Debug\GuidedProject - Variable data in c#.pdb

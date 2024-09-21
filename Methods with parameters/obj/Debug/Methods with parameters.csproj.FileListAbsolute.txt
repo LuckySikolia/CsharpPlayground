@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Methods with parameters\bin\Debug\Methods with parameters.exe.config
+D:\Games_and_game_development\CsharpPlayground\Methods with parameters\bin\Debug\Methods with parameters.exe
+D:\Games_and_game_development\CsharpPlayground\Methods with parameters\bin\Debug\Methods with parameters.pdb
+D:\Games_and_game_development\CsharpPlayground\Methods with parameters\obj\Debug\Methods with parameters.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Methods with parameters\obj\Debug\Methods with parameters.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Methods with parameters\obj\Debug\Methods with parameters.exe
+D:\Games_and_game_development\CsharpPlayground\Methods with parameters\obj\Debug\Methods with parameters.pdb
