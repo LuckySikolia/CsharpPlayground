@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EB9C2D8C-CA78-4B1F-AABA-48658614B985}</ProjectGuid>
+    <ProjectGuid>{3B325B2E-C80D-485B-B057-E88EE2EEC840}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Mini_Game</RootNamespace>
-    <AssemblyName>Mini Game</AssemblyName>
+    <RootNamespace>Exception_handling1</RootNamespace>
+    <AssemblyName>Exception handling1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

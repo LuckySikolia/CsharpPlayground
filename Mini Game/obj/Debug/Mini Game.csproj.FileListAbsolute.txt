@@ -1,7 +1,0 @@
-D:\Games_and_game_development\CsharpPlayground\Mini Game\bin\Debug\Mini Game.exe.config
-D:\Games_and_game_development\CsharpPlayground\Mini Game\bin\Debug\Mini Game.exe
-D:\Games_and_game_development\CsharpPlayground\Mini Game\bin\Debug\Mini Game.pdb
-D:\Games_and_game_development\CsharpPlayground\Mini Game\obj\Debug\Mini Game.csproj.AssemblyReference.cache
-D:\Games_and_game_development\CsharpPlayground\Mini Game\obj\Debug\Mini Game.csproj.CoreCompileInputs.cache
-D:\Games_and_game_development\CsharpPlayground\Mini Game\obj\Debug\Mini Game.exe
-D:\Games_and_game_development\CsharpPlayground\Mini Game\obj\Debug\Mini Game.pdb
