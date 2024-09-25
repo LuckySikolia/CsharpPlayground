@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\Try-catch-challenge\bin\Debug\Try-catch-challenge.exe.config
+D:\Games_and_game_development\CsharpPlayground\Try-catch-challenge\bin\Debug\Try-catch-challenge.exe
+D:\Games_and_game_development\CsharpPlayground\Try-catch-challenge\bin\Debug\Try-catch-challenge.pdb
+D:\Games_and_game_development\CsharpPlayground\Try-catch-challenge\obj\Debug\Try-catch-challenge.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\Try-catch-challenge\obj\Debug\Try-catch-challenge.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\Try-catch-challenge\obj\Debug\Try-catch-challenge.exe
+D:\Games_and_game_development\CsharpPlayground\Try-catch-challenge\obj\Debug\Try-catch-challenge.pdb

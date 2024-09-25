@@ -1,0 +1,7 @@
+D:\Games_and_game_development\CsharpPlayground\ExceptionHandlingTest2\bin\Debug\ExceptionHandlingTest2.exe.config
+D:\Games_and_game_development\CsharpPlayground\ExceptionHandlingTest2\bin\Debug\ExceptionHandlingTest2.exe
+D:\Games_and_game_development\CsharpPlayground\ExceptionHandlingTest2\bin\Debug\ExceptionHandlingTest2.pdb
+D:\Games_and_game_development\CsharpPlayground\ExceptionHandlingTest2\obj\Debug\ExceptionHandlingTest2.csproj.AssemblyReference.cache
+D:\Games_and_game_development\CsharpPlayground\ExceptionHandlingTest2\obj\Debug\ExceptionHandlingTest2.csproj.CoreCompileInputs.cache
+D:\Games_and_game_development\CsharpPlayground\ExceptionHandlingTest2\obj\Debug\ExceptionHandlingTest2.exe
+D:\Games_and_game_development\CsharpPlayground\ExceptionHandlingTest2\obj\Debug\ExceptionHandlingTest2.pdb
